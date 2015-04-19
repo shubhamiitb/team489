@@ -1,0 +1,16 @@
+******************************************** Required Utilities: ****************************************************************
+1. AVR Bootloader
+2. AVR studio 4 (windows 7) or Atmel studio 6 (windows 8.1)
+3. X-CTU
+4. Opencv : for image processing and future works
+5. Code::blocks : Compiler
+
+************************************************************ LINKS *************************************************************
+
+Link for opencv installation : http://opencv.org/downloads.html
+
+Link for codeblocks installation : http://www.codeblocks.org/downloads/binaries
+ 
+Link for Opencv configuration step by step : http://kevinhughes.ca/tutorials/opencv-install-on-windows-with-codeblocks-and-mingw/
+
+Link for X-CTU installation : http://www.digi.com/support/productdetl.jsp?pid=4091&osvid=62&tp=5&hit=XCTU%20ver.%205.1.4.1%20installer#utilities
